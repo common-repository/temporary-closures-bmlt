@@ -1,0 +1,157 @@
+select.temporary_closures_service_body_select {
+	width: 50%;
+	max-width: 50%;
+}
+
+.chosen-container-multi .chosen-choices li.search-field input[type=text] {
+	width: 100% !important;
+}
+.chosen-container-multi * {
+	font-family: 'Courier New', Courier, monospace;
+}
+.chosen-container-multi .chosen-choices li.search-field input[type=text] {
+	font-family: "Open Sans",sans-serif !important;
+}
+
+div#temporary_closures_div span.c_comdef_search_results_province,
+div#temporary_closures_div span.c_comdef_search_results_nation,
+div#temporary_closures_div span.c_comdef_search_results_zip
+{
+	display:none;
+}
+
+div#temporary_closures_div table#bmlt_simple_meetings_table span.c_comdef_search_results_province,
+div#temporary_closures_div table#bmlt_simple_meetings_table span.c_comdef_search_results_nation,
+div#temporary_closures_div table#bmlt_simple_meetings_table span.c_comdef_search_results_zip
+{
+	display:none;
+}
+
+
+div#temporary_closures_div span.c_comdef_search_results_zip_separator
+{
+	display:none;
+}
+
+div#temporary_closures_div span.c_comdef_search_results_province_separator
+{
+	display:none;
+}
+
+div#temporary_closures_div span.c_comdef_search_results_nation_separator
+{
+	display:none;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_format_div
+{
+	text-align:right;
+}
+
+div#temporary_closures_div div.bmlt_simple_meetings_div div.bmlt_alt_0
+{
+	background-color:#efefef;
+}
+
+div#temporary_closures_div div
+{
+	font-family:"Open Sans";
+	font-size: medium;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_div
+{
+	display:table;
+	width:100%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_div div
+{
+	float:left;
+	padding:0.5em;
+	display:table;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_town_div
+{
+	width:10%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_town_div
+{
+	width:10%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_town_div
+{
+	width:10%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_name_div
+{
+	width:20%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_time_div
+{
+	width:5%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_weekday_div
+{
+	width:5%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_address_div
+{
+	width:30%;
+}
+
+div#temporary_closures_div div.bmlt_simple_meeting_one_meeting_format_div
+{
+	width:10%;
+}
+
+div#temporary_closures_div {
+	overflow-x: auto;
+}
+
+table.dataTable tbody, thead {
+	font: normal normal normal 14px/1.3em "open sans",sans-serif;
+}
+.dataTables_wrapper .dataTables_filter {
+	float: right;
+	text-align: right;
+	padding: 6px;
+}
+table.dataTable thead tr {
+	color: #1cb2f5;
+	background-color: #fff;
+	opacity: 0.9;
+}
+table.dataTable.display tbody tr.odd {
+	background-color: #fff;
+}
+table.dataTable.display tbody tr.odd > .sorting_1 {
+	background-color: #fff;
+}
+
+table.dataTable.display tbody tr.odd:hover {
+	background-color: #fff;
+}
+table.dataTable.display tbody tr.odd > .sorting_1:hover {
+	background-color: #fff;
+}
+
+table.dataTable.display tbody tr.even {
+	background-color: #D8F3FD;
+}
+table.dataTable.display tbody tr.even:hover {
+	background-color: #fff;
+}
+table.dataTable.display tbody tr.even > .sorting_1 {
+	background-color: #D8F3FD;
+}
+table.dataTable.display tbody tr.even > .sorting_1:hover {
+	background-color: #fff;
+}
